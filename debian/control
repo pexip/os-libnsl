@@ -6,7 +6,7 @@ XSBC-Pexip-Original-Maintainer: GNU Libc Maintainers <debian-glibc@lists.debian.
 XSBC-Pexip-Original-Uploaders: Aurelien Jarno <aurel32@debian.org>
 Build-Depends: debhelper-compat (= 13), libtirpc-dev, pkg-config
 Rules-Requires-Root: no
-Standards-Version: 4.5.0
+Standards-Version: 4.6.2
 Vcs-Browser: https://salsa.debian.org/glibc-team/libnsl
 Vcs-Git: https://salsa.debian.org/glibc-team/libnsl.git
 Homepage: https://github.com/thkukuk/libnsl
